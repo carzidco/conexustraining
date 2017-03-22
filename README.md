@@ -1,3 +1,3 @@
 # conexustraining
 
-Hola Bienvenidos al training de github
+Hola Willkomen al training de charlie
